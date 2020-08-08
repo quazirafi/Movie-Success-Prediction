@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+-------------Overview----------------
+
+1. First used the twitter dataset
+2. Then used the IMDB movie review dataset prepared by Stanford University NLP group
+3. Used that dataset to train the model to differentiate between positive and negative comments
+4. Used tf-idf scores of unigrams and bigrams as the main features after removing stopwords
+5. Then sort the whole feature vector according to tf-idf score and select the best 100000 features
+6. Then used SVM with RBF kernel to classify the test comments
+7. Previous approach was SVM with linear kernel
+8. We achieved 89.52% accuracy for 50/50 and 90.41% accuracy for 90/10 which is actually better than previous approaches
+9. Then we have combined our feature selection with Nanyang Technological University's paper where they have generated a polarity score for each of the 
+   comments and used that as a feature in SVM(Linear)
+10. But using that technique our accuracy decreases to 75.90%
+11. Then we separated polarity score from SVM and use polarity score separately to classify using the mean polarity
+12. But accuracy also doesn't improve in this case

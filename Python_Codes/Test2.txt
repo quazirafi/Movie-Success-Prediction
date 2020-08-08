@@ -1,0 +1,9 @@
+comment comment score score score
+good 2.0 
+bad -2.0 
+worse -2.0
+unlucky -2.0
+well 2.0
+better 2.0
+funny 2.0
+shit 2.0
