@@ -7,7 +7,7 @@ predict the fate of the movie. This project was developed as part of the Artific
 We publised our work in the "2017 20th International Conference of Computer and Information Technology (ICCIT), Dhaka,
 2017". To know about the details of our work you may read our paper which is available in the following link:
 
-DOI: 10.1109/ICCITECHN.2017.8281803.
+[DOI: 10.1109/ICCITECHN.2017.8281803](https://ieeexplore.ieee.org/document/8281803)
 
 To cite our work follow the following format:
 
@@ -15,6 +15,7 @@ Mahmud, Q. I., Mohaimen, A., Islam, M. S. and Marium-E-Jannat. (2018).
 A support vector
 machine mixed with statistical reasoning approach to predict movie success by analyzing public
 sentiments. 2017 20th International Conference of Computer and Information Technology (ICCIT), Dhaka,
-2017, pp. 1-6. DOI: 10.1109/ICCITECHN.2017.8281803.
+2017, pp. 1-6. [DOI: 10.1109/ICCITECHN.2017.8281803](https://ieeexplore.ieee.org/document/8281803)
+
 
 
